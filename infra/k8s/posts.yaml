@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: posts
-      image: mitomex/post:0.0.1
+      image: mitomex/posts:0.0.1
